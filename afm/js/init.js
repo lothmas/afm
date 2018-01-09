@@ -155,7 +155,7 @@ var ADORE = window.ADORE || {};
 					slideshow: carouselAutoplay,              
 					slideshowSpeed: carouselSpeed,         
 					animationSpeed: 600,         
-					initDelay: 0,
+					initDelay: 0,              
 					randomize: false,            
 					pauseOnHover: carouselPause,       
 					controlNav: carouselPagination,           
